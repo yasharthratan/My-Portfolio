@@ -8,3 +8,15 @@
 	border-bottom: 4px solid #ec1839;;
 	border-right: 4px solid #ec1839;
 }
+
+.aside .nav li a:hover,
+.aside .nav li a.active
+{
+	color: #ec1839;
+}
+.aside .nav-toggler span,
+.aside .nav-toggler span::before,
+.aside .nav-toggler span::after
+{
+	background-color: #ec1839;
+}
